@@ -17,7 +17,7 @@ class ImagenesPage extends StatelessWidget {
 
               FadeInImage(
                 placeholder: AssetImage('assets/loading.gif'),
-                image: NetworkImage('https://raw.githubusercontent.com/vianeyalejandra03/mis_imagenes/main/isokueicon1.jpg'),
+                image: NetworkImage('https://raw.githubusercontent.com/AlvaroGMZ/misImagenes/main/119171949_1053664528436922_9102000028063592430_n.jpg'),
               )
             ],
           ),
