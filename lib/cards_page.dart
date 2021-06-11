@@ -80,7 +80,7 @@ class CardsPage extends StatelessWidget {
               borderRadius: BorderRadius.only(topRight: Radius.circular(20), topLeft: Radius.circular(20)),
               child: FadeInImage(
                 placeholder: AssetImage('assets/loading.gif'),
-                image: NetworkImage('https://raw.githubusercontent.com/vianeyalejandra03/mis_imagenes/main/tanjiro1.jpg'),
+                image: NetworkImage('https://raw.githubusercontent.com/AlvaroGMZ/misImagenes/main/119171949_1053664528436922_9102000028063592430_n.jpg'),
               ),
             ),
             Padding(
